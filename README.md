@@ -13,3 +13,5 @@
     For that use the "Generate auth token API" and get the token from response and use it in all the other APIs by passing it in headers with Key as Authorization and value as Token "token_value"
 11. Remember to hit the post APIs after using delete APIs as the record id might mismatch
 12. To run the test cases hit the command "python manage.py test" in command line
+13. The API documentation on Postman will look something like this
+![Screenshot (3)](https://github.com/PorasSingh301/Blog/assets/66668588/e9f72854-219c-418e-9671-3628958aeae6)
